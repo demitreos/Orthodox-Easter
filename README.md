@@ -1,2 +1,2 @@
 # Orthodox-Easter
-This function in JavaScript calculates the Orthodox Easter
+This function calculates the Orthodox Easter using JavaScript.
